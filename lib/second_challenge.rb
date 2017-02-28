@@ -15,5 +15,5 @@ def second_challenge
     end
   end
 
-  return array
+  array
 end
